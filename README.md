@@ -11,7 +11,7 @@
 
 ![Additional photo 2](docs/assets/2022-08-22%2012.20.44.jpg) <br>
 
-![Additional photo 2](docs/assets/2022-08-24%2007.51.20.jpg) <br> </p>
+![Additional photo 3](docs/assets/2022-08-24%2007.51.20.jpg) <br> </p>
 
 
 

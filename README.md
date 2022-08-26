@@ -1,9 +1,9 @@
-# MasterFloof.github.io
+# Master Floof
 Title: Master Floof
 Description: A celebration of His Floofiness, the Professor, Master Floof
 
-##A celebration of His Floofiness, the Professor, Master Floof
-Pet my head.
+### celebration of His Floofiness, the Professor, Master Floof
+##Pet my head.
 
  
   

@@ -7,6 +7,6 @@
 
  
   
-Master Floof
-MSc, Floofiness
-PhD Candidate, Anthropology
+<p>Master Floof <br>
+MSc, Floofiness <br>
+PhD Candidate, Anthropology </p>

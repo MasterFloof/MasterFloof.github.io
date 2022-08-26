@@ -3,8 +3,7 @@
 
 
 
-### celebration of His Floofiness, the Professor, Master Floof
-##Pet my head.
+###Pet my head.
 
  
   

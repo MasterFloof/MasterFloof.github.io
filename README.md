@@ -1,9 +1,9 @@
-# Master Floof AKA Professor Buns
+# Here is my distinguished photo:
 
 
 ![Bunny Portrait](docs/assets/IMG_7447.JPG)
 
-###Pet my head.
+### Pet my head.
 
  
   

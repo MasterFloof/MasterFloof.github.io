@@ -1,6 +1,7 @@
-# Master Floof
-Title: Master Floof
-Description: A celebration of His Floofiness, the Professor, Master Floof
+# Master Floof AKA Professor Buns
+
+
+
 
 ### celebration of His Floofiness, the Professor, Master Floof
 ##Pet my head.

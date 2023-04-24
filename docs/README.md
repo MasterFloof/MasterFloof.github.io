@@ -15,8 +15,6 @@
 
 ![Additional photo 3](assets/2022-08-24%2007.51.20.jpg) <br>
 
-<p>If those are code instead of images, well, I don't know how to fix it. It should work, but it's inconsistent.</p>
-
 
 <p>Master Floof <br>
 MSc, Floofiness <br>

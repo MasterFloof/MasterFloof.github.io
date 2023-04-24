@@ -18,5 +18,5 @@
 
 <p>Master Floof <br>
 MSc, Floofiness <br>
-PhD Candidate, Anthropology </p>
+PhD Candidate, Anthropology (I study humans afer all)</p>
 <MasterFloof@pm.me>
